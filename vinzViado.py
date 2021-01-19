@@ -50,4 +50,4 @@ def DesenharNoKevin():
 if __name__== "__vinzViado":
     while True:
         DesenharNoKevin()   
-        time.sleep(15)
+        time.sleep(60)
