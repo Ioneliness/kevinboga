@@ -1,0 +1,15 @@
+cachetools==4.2.0
+certifi==2020.12.5
+chardet==4.0.0
+cssselect==1.1.0
+cssutils==1.0.2
+email-to==0.1.0
+idna==2.10
+lxml==4.6.2
+Markdown==3.3.3
+Pillow==8.1.0
+premailer==3.7.0
+pygame==2.0.0
+requests==2.25.1
+selenium==3.141.0
+urllib3==1.26.2
