@@ -47,7 +47,6 @@ def DesenharNoKevin():
     im.save('image.jpg')
     SendMail()
     
-if __name__== "__vinzViado":
-    while True:
-        DesenharNoKevin()   
-        time.sleep(360)
+while True:
+    DesenharNoKevin()   
+    time.sleep(360)
