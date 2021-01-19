@@ -46,7 +46,7 @@ def DesenharNoKevin():
     draw.text((45, 250), frases[randint(minimal, maximun)], font=font)
     im.save('image.jpg')
     SendMail()
-    
+
 while True:
     DesenharNoKevin()   
-    time.sleep(360)
+    time.sleep(15)
